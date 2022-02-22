@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976198079788",
+    "project_id": "flash-chat-b908c",
+    "storage_bucket": "flash-chat-b908c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976198079788:android:e8fc81016ff4cf38a2c889",
+        "android_client_info": {
+          "package_name": "co.asperezm.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976198079788-7bgqh1p4ad5l6s0cmhf23ki66uml4ub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvehRMhrLbyKQX8bHIpNy3ZNgW4l9-qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976198079788-7bgqh1p4ad5l6s0cmhf23ki66uml4ub9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
